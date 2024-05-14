@@ -1,0 +1,20 @@
+1. feladat:
+
+Hozz létre egy listát, ami 10 darab random számból áll. (használd a random library-t, azon belül is a randint függvényt)
+Az összes szám értéke legyen 1 és 10 között.
+
+2. feladat:
+
+Irasd ki a lista 5. elemét a konzolba
+
+3. feladat:
+
+Adj hozzá a lista végéhez egy új elemet, amelynek az értéke 6 legyen
+
+4. feladat:
+
+Szedd ki a lista első elemét a listából
+
+5. feladat:
+
+Egy ciklus segítségével irasd ki a lista összes elemének az összegét.
